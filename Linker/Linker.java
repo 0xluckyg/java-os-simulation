@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.LinkedHashMap;
 import java.util.Scanner;
 
-public class OSLab1 {
+public class Linker {
 
 	private static PrintWriter writer;
 	private static String outputNum;
